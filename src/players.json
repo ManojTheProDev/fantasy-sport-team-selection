@@ -1,0 +1,171 @@
+[
+    {
+        "name": "Rohit Sharma",
+        "type": "Batsman",
+        "battingSkill": 90,
+        "bowlingSkill": 90,
+        "fieldingSkill": 90 
+    },
+    {
+        "name":"Virat Kohli",
+        "type": "Batsman",
+        "battingSkill": 90,
+        "bowlingSkill": 70,
+        "fieldingSkill": 80
+    },
+    {
+        "name":"Shikhar Dhawan",
+        "type": "Batsman",
+        "battingSkill": 85,
+        "bowlingSkill": 50,
+        "fieldingSkill": 80
+    },
+    {
+        "name": "Shreyas Iyer",
+        "type": "Batsman",
+        "battingSkill": 87,
+        "bowlingSkill": 40,
+        "fieldingSkill": 80
+    },
+    {
+        "name":"Mayank Agarwal",
+        "type": "Batsman",
+        "battingSkill": 90,
+        "bowlingSkill": 40,
+        "fieldingSkill": 90
+    },
+    {
+        "name":"Ajinkya Rahane",
+        "type": "Batsman",
+        "battingSkill": 84,
+        "bowlingSkill": 45,
+        "fieldingSkill": 83
+    },
+	{
+		"name":"Chateshwar Pujara",
+		"type":"Batsman",
+		"battingSkill": 89,
+		"bowlingSkill": 40,
+		"fieldingSkill": 70
+	},
+	{
+		"name": "Shubhman Gill",
+		"type": "Batsman",
+		"battingSkill": 84,
+		"bowlingSkill": 32,
+		"fieldingSkill": 84
+	},
+    {
+        "name":"Rishabh Pant",
+        "type":"WicketKeeper",
+        "battingSkill": 90,
+        "bowlingSkill": 20,
+        "fieldingSkill": 91
+    },
+    {
+        "name":"KL Rahul",
+        "type":"WicketKeeper",
+        "battingSkill": 89,
+        "bowlingSkill": 20,
+        "fieldingSkill": 96
+    },
+    {
+        "name":"Ishaan Kishan",
+        "type":"WicketKeeper",
+        "battingSkill": 84,
+        "bowlingSkill": 30,
+        "fieldingSkill": 80
+    },
+    {
+        "name":"Ravindra Jadeja",
+        "type":"AllRounder",
+        "battingSkill": 90,
+        "bowlingSkill": 80,
+        "fieldingSkill": 95
+    },
+    {
+        "name":"Hardik Pandya",
+        "type":"AllRounder",
+        "battingSkill": 80,
+        "bowlingSkill": 70,
+        "fieldingSkill": 90
+    },
+    {
+        "name":"Ravichandran Ashwin",
+        "type":"AllRounder",
+        "battingSkill": 70,
+        "bowlingSkill": 90,
+        "fieldingSkill": 80
+    },
+    {
+        "name":"Shivam Dube",
+        "type":"AllRounder",
+        "battingSkill": 80,
+        "bowlingSkill": 80,
+        "fieldingSkill": 80
+    },
+	{
+		"name": "Krunal Pandya",
+		"type": "AllRounder",
+		"battingSkill": 89,
+		"bowlingSkill": 80,
+		"fieldingSkill": 84
+	},
+	{
+		"name": "Vijay Shankar",
+		"type": "AllRounder",
+		"battingSkill": 89,
+		"bowlingSkill": 89,
+		"fieldingSkill": 75
+	},
+    {
+        "name":"Jasprit Bumrah",
+        "type":"Bowler",
+        "battingSkill": 50,
+        "bowlingSkill": 90,
+        "fieldingSkill": 70
+    },
+    {
+        "name":"Kuldeep Yadav",
+        "type":"Bowler",
+        "battingSkill": 50,
+        "bowlingSkill": 85,
+        "fieldingSkill": 75
+    },
+    {
+        "name":"Navdeep Saini",
+        "type":"Bowler",
+        "battingSkill": 60,
+        "bowlingSkill": 85,
+        "fieldingSkill": 62
+    },
+    {
+        "name":"Shardul Thakur",
+        "type":"Bowler",
+        "battingSkill": 70,
+        "bowlingSkill": 85,
+        "fieldingSkill": 80
+    },
+	{
+		"name": "Mohammed Shami",
+		"type": "Bowler",
+		"battingSkill": 32,
+		"bowlingSkill": 91,
+		"fieldingSkill": 80
+	},
+	{
+		"name": "Axal Patel",
+		"type": "Bowler",
+		"battingSkill": 32,
+		"bowlingSkill": 90,
+		"fieldingSkill": 80
+	},
+	{
+		"name": "Harshal Patel",
+		"type": "Bowler",
+		"battingSkill": 32,
+		"bowlingSkill": 85,
+		"fieldingSkill": 75
+	}
+	
+]

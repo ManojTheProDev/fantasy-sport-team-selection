@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="12" failures="0" errors="0" time="2.052">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-07-25T19:43:02" time="1.476" tests="12">
+    <testcase classname=" Initially Selected players should be empty, all 25 players getting rendered in Available Players" name=" Initially Selected players should be empty, all 25 players getting rendered in Available Players" time="0.123">
+    </testcase>
+    <testcase classname=" Show welcome instructions initially and disappear on clicking close button" name=" Show welcome instructions initially and disappear on clicking close button" time="0.026">
+    </testcase>
+    <testcase classname=" Select first player in Available Players" name=" Select first player in Available Players" time="0.033">
+    </testcase>
+    <testcase classname=" Remove Selected player" name=" Remove Selected player" time="0.029">
+    </testcase>
+    <testcase classname=" Select 5 players" name=" Select 5 players" time="0.04">
+    </testcase>
+    <testcase classname=" Add 5 players and remove them" name=" Add 5 players and remove them" time="0.058">
+    </testcase>
+    <testcase classname=" Player card select button should be disabled for already selected player" name=" Player card select button should be disabled for already selected player" time="0.029">
+    </testcase>
+    <testcase classname=" Select Player on Card and close card" name=" Select Player on Card and close card" time="0.025">
+    </testcase>
+    <testcase classname=" Check limit on adding more than 6 batsman" name=" Check limit on adding more than 6 batsman" time="0.041">
+    </testcase>
+    <testcase classname=" Check limit on adding more than 4 allrounders" name=" Check limit on adding more than 4 allrounders" time="0.024">
+    </testcase>
+    <testcase classname=" Check limit on adding more than 6 Bowlers" name=" Check limit on adding more than 6 Bowlers" time="0.033">
+    </testcase>
+    <testcase classname=" check limit on adding 11 players" name=" check limit on adding 11 players" time="0.043">
+    </testcase>
+  </testsuite>
+</testsuites>
