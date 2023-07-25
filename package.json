@@ -10,7 +10,9 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "start": "set PORT=8000 && react-scripts start",
+    "pretest": "npm install",
+    "prestart": "npm install",
+    "start": "set PORT=8000 react-scripts start",
     "build": "react-scripts build",
     "test": "./node_modules/.bin/react-scripts test --watchAll=false --verbose --env=jsdom --testResultsProcessor ./node_modules/jest-junit",
     "eject": "react-scripts eject"
